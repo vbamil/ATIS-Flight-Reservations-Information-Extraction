@@ -33,11 +33,11 @@ The dataset is divided into five folds, each fold having a training, validation 
 
 3. Models for Entity Recognition
 
-   a. Rule-based models
+   a. Rule-based models:
       a1. Regular Expression Based Rules (ex)
       a2. Chunking
 
-   b. Probabilistic models
+   b. Probabilistic models:
       b1. Unigram and Bigram models
       b2. Naive Bayes Classifier
       b3. Conditional Random Fields (CRFs)
