@@ -27,13 +27,13 @@ The dataset is divided into five folds, each fold having a training, validation 
 
 1. Understanding the Data
 2. Information Extraction
-   Pipeline for Information Extraction Systems
-   Named Entity Recognition (NER)
+   a. Pipeline for Information Extraction Systems
+   b. Named Entity Recognition (NER)
 3. Models for Entity Recognition
-   Rule-based models
-    Regular Expression Based Rules (ex)
-    Chunking
-   Probabilistic models
-    Unigram and Bigram models
-    Naive Bayes Classifier
-    Conditional Random Fields (CRFs)
+   a. Rule-based models
+      a1. Regular Expression Based Rules (ex)
+      a2. Chunking
+   b. Probabilistic models
+      b1. Unigram and Bigram models
+      b2. Naive Bayes Classifier
+      b3. Conditional Random Fields (CRFs)
